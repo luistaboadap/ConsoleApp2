@@ -10,3 +10,4 @@ Console.WriteLine($"Tabla de multiplicar del número es: {numero} ");
 for (int i = 0; i <= 12; i++)
 {
     Console.WriteLine($" {numero} x {i}  =  {(numero * i)}");
+}
